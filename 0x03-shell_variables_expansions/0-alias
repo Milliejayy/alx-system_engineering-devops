@@ -1,2 +1,2 @@
 #!/bin/bash
-alias football='is very interesting'
+echo alias=ls="rm *”
